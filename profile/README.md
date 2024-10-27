@@ -1,3 +1,5 @@
 <h1 align="center">The Slimy Swamp</h1>
 
+<p align=center> <sup> By the <a href="https://www.github.com/EsotericFoundation">Esoteric Foundation</a> </sup> </p>
+
 <div align=center><a href="https://www.github.com/TheSlimySwamp"><img src="https://github.com/TheSlimySwamp/logo/releases/download/1.0.0-rounded/the-slimy-swamp-logo-1.0.0-rounded.png" alt="The logo of The Slimy Swamp." height=250 width=250></a></div>
