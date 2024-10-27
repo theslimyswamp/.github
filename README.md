@@ -1,2 +1,3 @@
-# .github
-Information about The Slimy Swamp!
+# The Slimy Swamp
+
+> Information about The Slimy Swamp!
