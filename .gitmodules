@@ -1,0 +1,3 @@
+[submodule "profile/logo"]
+	path = profile/logo
+	url = git@github.com:TheSlimySwamp/logo.git
