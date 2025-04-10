@@ -12,4 +12,4 @@
 
 ## Topics
 
-readme profile organization organisation profiles organizations readme-md profile-readme readme-profile readme-organization organization-readme organization-profile org-readme
+<sup>[readme](https://github.com/topics/readme), [profile](https://github.com/topics/profile), [organization](https://github.com/topics/organization), [organisation](https://github.com/topics/organisation), [profiles](https://github.com/topics/profiles), [organizations](https://github.com/topics/organizations), [readme-md](https://github.com/topics/readme-md), [profile-readme](https://github.com/topics/profile-readme), [readme-profile](https://github.com/topics/readme-profile), [readme-organization](https://github.com/topics/readme-organization), [organization-readme](https://github.com/topics/organization-readme), [organization-profile](https://github.com/topics/organization-profile), [org-readme](https://github.com/topics/org-readme)</sup>
