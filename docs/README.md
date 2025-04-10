@@ -1,6 +1,6 @@
 # The Slimy Swamp
 
-[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+[![Project status: completed](./assets/images/badges/status.svg)](./)
 
 > Information about [The Slimy Swamp](https://github.com/TheSlimySwamp)!
 
