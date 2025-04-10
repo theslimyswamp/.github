@@ -15,4 +15,4 @@
 
 <br>
 
-<p align=center>This organisation contains projects related to the network.<br>That includes plugins, configurations, and information!</p>
+<p align=center>This organisation contains projects related to the network.<br>That includes plugins, worlds, configurations and information!</p>
