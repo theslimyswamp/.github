@@ -1,7 +1,7 @@
 <h1 align="center">The Slimy Swamp</h1>
 
 <p align=center>
-    <sup>By the <a href="https://www.github.com/EsotericFoundation">Esoteric Foundation</a></sup>
+    <sup>By the <a href="https://esoteric.foundation">Esoteric Foundation</a></sup>
 </p>
 
 <div align=center>
